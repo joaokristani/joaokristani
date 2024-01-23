@@ -2,8 +2,11 @@
 
 I'm João Kristani, founder of Infinity Community, a community dedicated to Discord and selfbots.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaokristani&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaokristani&layout=compact&theme=radical)
+<a href="https://github.com/joaokristani">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaokristani&show_icons=true&theme=radical" />
+  
+<a href="https://github.com/joaokristani">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaokristani&layout=compact&theme=radical" />
 
 **Other platforms I'm active on**
 
